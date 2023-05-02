@@ -1,6 +1,6 @@
 import 'dotenv/config';
 import express from 'express';
-import {
+import {5e4d7b043f6974ce76c11d10511bd3e19696385601bcf9276deadb68b0c974f2
   InteractionType,
   InteractionResponseType,
   InteractionResponseFlags,

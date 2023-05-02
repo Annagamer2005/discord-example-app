@@ -1,6 +1,6 @@
 import 'dotenv/config';
 import express from 'express';
-import {
+import {https://discord.com/api/oauth2/authorize?client_id=1102730190125273128&permissions=2419190800&scope=bot
   InteractionType,
   InteractionResponseType,
   InteractionResponseFlags,
